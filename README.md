@@ -12,3 +12,6 @@ Redes.
 -[Practica 2](./Practica2.md)
 
 -[Practica 4](https://github.com/SantiDEV2/practica4)
+
+-[Practica 8](./Practica8.md)
+    
