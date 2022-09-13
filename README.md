@@ -1,7 +1,7 @@
 # Santiago Mondragon
 
 Este repositorio tiene las prácticas y entregas de la materia de Sistemas Operativos y
-Redes.
+Redes del parcial 1.
 
 ## Prácticas parcial 1
 
