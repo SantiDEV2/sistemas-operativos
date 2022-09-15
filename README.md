@@ -14,4 +14,6 @@ Redes del parcial 1.
 -[Practica 4](https://github.com/SantiDEV2/practica4)
 
 -[Practica 8](./Practica8.md)
+
+-[Parcial 2, Practica 1](https://github.com/SantiDEV2/Parcial-2-Pr-ctica-1)
     
