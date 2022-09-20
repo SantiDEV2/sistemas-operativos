@@ -1,19 +1,127 @@
-ca97c2a Agregando enlace de la práctica 1 del parcial 2
-4f38c84 Merge branch 'js'
-aa1a203 Resolviendo problemas de funcion css
-354d707 Editando index desde la rama main
-d2920c0 Agregando al index
-8eac329 Creando archivo script js desde rama js
-325eb95 Creando archivo script js desde rama js
-c8d84de Creadno style css
-33280d5 Creando archivo index.html desde la rama html
-ea98268 Creando archivo index.html desde la rama html
-7705db0 Test
-b28ec37 Agregando enlace y contenido de la Práctica 8
-83c46bd Agregando enlace y contenido de la Práctica 8
-fefeb9a Create licence
-bd59c05 Creando archivo .gitignore
-7a145f1 Agregando la practica 4
-ed5a3a9 Ortografia modificacion
-29f2575 Segunda modificacion
-f35b289 Primer commit
+commit 92c9f7c924331d24335d95cf5ae859108e1ceb36
+Author: Santiago M.R <cdmx2162@amerike.edu.mx>
+Date:   Tue Sep 20 09:43:33 2022 -0500
+
+    v1.0.0
+
+commit daf681eb7871843844460782efa319232a77a460
+Author: Santiago M.R <cdmx2162@amerike.edu.mx>
+Date:   Tue Sep 20 09:23:35 2022 -0500
+
+    Agregando respaldo de Logs
+
+commit ca97c2a9c768787f42630f781e21edcfaf8bcb03
+Author: Santiago mr <cdmx2162@amerike.edu.mx>
+Date:   Thu Sep 15 18:27:25 2022 -0500
+
+    Agregando enlace de la práctica 1 del parcial 2
+
+commit 4f38c84ecaceeb8e01960fb05dcfef5ca9efc1c2
+Merge: aa1a203 8eac329
+Author: Santiago M.R <cdmx2162@amerike.edu.mx>
+Date:   Tue Sep 13 10:35:20 2022 -0500
+
+    Merge branch 'js'
+
+commit aa1a2037b8bfbef160cb2bd7c82c92d6da676be2
+Author: Santiago M.R <cdmx2162@amerike.edu.mx>
+Date:   Tue Sep 13 10:34:53 2022 -0500
+
+    Resolviendo problemas de funcion css
+
+commit 354d7075642071a6989a953f2fd134a600765ebf
+Author: Santiago M.R <cdmx2162@amerike.edu.mx>
+Date:   Tue Sep 13 10:29:59 2022 -0500
+
+    Editando index desde la rama main
+
+commit d2920c0e553708a664597dd7f1278f86023b5047
+Author: Santiago M.R <cdmx2162@amerike.edu.mx>
+Date:   Tue Sep 13 10:26:45 2022 -0500
+
+    Agregando al index
+
+commit 8eac3291029da6bca6f8d1d51ab4cc77bf611454
+Author: Santiago M.R <cdmx2162@amerike.edu.mx>
+Date:   Tue Sep 13 10:09:40 2022 -0500
+
+    Creando archivo script js desde rama js
+
+commit 325eb95104e699669755196a9465187721d551c2
+Author: Santiago M.R <cdmx2162@amerike.edu.mx>
+Date:   Tue Sep 13 10:08:55 2022 -0500
+
+    Creando archivo script js desde rama js
+
+commit c8d84de81c35032be8e9a0ffd215817db65571db
+Author: Santiago M.R <cdmx2162@amerike.edu.mx>
+Date:   Tue Sep 13 10:04:47 2022 -0500
+
+    Creadno style css
+
+commit 33280d5ba3df9a116569ce3dd402ef3d34a92a45
+Author: Santiago M.R <cdmx2162@amerike.edu.mx>
+Date:   Tue Sep 13 09:51:27 2022 -0500
+
+    Creando archivo index.html desde la rama html
+
+commit ea982681a16e7de73fbb9566acb2af3a37e17fea
+Author: Santiago M.R <cdmx2162@amerike.edu.mx>
+Date:   Tue Sep 13 09:50:13 2022 -0500
+
+    Creando archivo index.html desde la rama html
+
+commit 7705db0b3e1f340a63a8738cb071ce92abfa5c9d
+Author: Santiago M.R <cdmx2162@amerike.edu.mx>
+Date:   Tue Sep 13 09:33:27 2022 -0500
+
+    Test
+
+commit b28ec373f2633b2ecf637f86add4ba6a0c5aa956
+Merge: 83c46bd fefeb9a
+Author: Santiago M.R <cdmx2162@amerike.edu.mx>
+Date:   Tue Sep 6 17:35:35 2022 -0500
+
+    Agregando enlace y contenido de la Práctica 8
+
+commit 83c46bd23a87dd2cc5d2f5276569a9327f3733ef
+Author: Santiago M.R <cdmx2162@amerike.edu.mx>
+Date:   Tue Sep 6 17:33:34 2022 -0500
+
+    Agregando enlace y contenido de la Práctica 8
+
+commit fefeb9a1824bb46083ad231b075339f31073e60f
+Author: SantiDEV2 <100314893+SantiDEV2@users.noreply.github.com>
+Date:   Tue Sep 6 16:51:36 2022 -0500
+
+    Create licence
+
+commit bd59c058d78fc711b9f9b0de1efe613593173d4b
+Author: Santiago M.R <cdmx2162@amerike.edu.mx>
+Date:   Tue Sep 6 16:48:22 2022 -0500
+
+    Creando archivo .gitignore
+
+commit 7a145f1ada025a8fc6f3eba85ddec3409fe521cf
+Author: Santiago M.R <cdmx2162@amerike.edu.mx>
+Date:   Tue Sep 6 16:41:47 2022 -0500
+
+    Agregando la practica 4
+
+commit ed5a3a9dccc744f9e6d5bb2384d295aa0a3b0c74
+Author: Santiago M.R <cdmx2162@amerike.edu.mx>
+Date:   Thu Sep 1 17:30:58 2022 -0500
+
+    Ortografia modificacion
+
+commit 29f25752ed64ece6631a9278e63148f0cae346d4
+Author: Santiago M.R <cdmx2162@amerike.edu.mx>
+Date:   Thu Sep 1 17:27:41 2022 -0500
+
+    Segunda modificacion
+
+commit f35b289f66823192b940f5a8ae9f0a957bbb7ea3
+Author: Santiago M.R <cdmx2162@amerike.edu.mx>
+Date:   Thu Sep 1 17:21:18 2022 -0500
+
+    Primer commit
