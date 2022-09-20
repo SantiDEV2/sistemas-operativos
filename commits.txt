@@ -1,0 +1,19 @@
+ca97c2a Agregando enlace de la práctica 1 del parcial 2
+4f38c84 Merge branch 'js'
+aa1a203 Resolviendo problemas de funcion css
+354d707 Editando index desde la rama main
+d2920c0 Agregando al index
+8eac329 Creando archivo script js desde rama js
+325eb95 Creando archivo script js desde rama js
+c8d84de Creadno style css
+33280d5 Creando archivo index.html desde la rama html
+ea98268 Creando archivo index.html desde la rama html
+7705db0 Test
+b28ec37 Agregando enlace y contenido de la Práctica 8
+83c46bd Agregando enlace y contenido de la Práctica 8
+fefeb9a Create licence
+bd59c05 Creando archivo .gitignore
+7a145f1 Agregando la practica 4
+ed5a3a9 Ortografia modificacion
+29f2575 Segunda modificacion
+f35b289 Primer commit
