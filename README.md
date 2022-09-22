@@ -15,7 +15,7 @@ Redes del parcial 1.
 
 -[Practica 8](./Practica8.md)
 
--[Parcial 2, Practica 1](https://github.com/SantiDEV2/Parcial-2-Pr-ctica-1)
+-[Parcial 2, Practica 1](https://github.com/SantiDEV2/Parcial-2-Practica-1)
 
 Creando la version 1.0.0 de este repositorio
 
